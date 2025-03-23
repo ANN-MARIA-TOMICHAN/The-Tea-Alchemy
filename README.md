@@ -35,7 +35,7 @@ If you prefer working locally, follow these steps:
 
 bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/the_tea_alchemy.git
+git clone [https://github.com/yourusername/the_tea_alchemy.git](https://github.com/ANN-MARIA-TOMICHAN/The-Tea-Alchemy)
 
 # Step 2: Navigate into the main project folder
 cd the_tea_alchemy/the_tea_alchemy_main
